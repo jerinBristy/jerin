@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar-brand{
+    font-size: 3rem;
+    color: #fff !important;
+    font-weight: 700;
+}
+
+#home-banner{
+    .media .d-flex{
+        img{
+            width: 668px;
+        }
+    }
+    .basic_info{
+        color: #666;
+    }
+}
+
+#experience{
+    .education{
+        .media-body{
+            h5{
+                color: #fff;
+                font-size: 1.1rem;
+                font-weight: 400;
+            }
+            p{
+                font-size: .9rem;
+            }
+        }
+    }
+}
+
+#projects{
+    .img-fluid{
+        height: 280px;
+    }
+}
